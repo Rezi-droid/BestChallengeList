@@ -1,0 +1,24 @@
+{
+    "id": 73295750,
+    "name": "made on an airplane",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/sShd07DJh3o",
+    "percentToQualify": "100",
+    "password": "not copyable",
+    "records": [
+        {
+            "user": "Dracolaxy8",
+            "link": "https://youtu.be/sShd07DJh3o",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sample_Victor_2",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
