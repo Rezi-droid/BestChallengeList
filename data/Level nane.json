@@ -1,0 +1,18 @@
+{
+    "id": 72769570,
+    "name": "level nane",
+    "author": "Ok349",
+    "creators": ["Ok349"],
+    "verifier": "Ok349",
+    "verification": "https://youtu.be/YuYpsnSNfF8",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/YuYpsnSNfF8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
