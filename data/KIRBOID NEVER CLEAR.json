@@ -1,0 +1,18 @@
+{
+    "id": 77096395,
+    "name": "KIRBOID NEVER CLEAR",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/Kdgvuqm8wFU",
+    "percentToQualify": 100,
+    "password": "Free",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/Kdgvuqm8wFU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
