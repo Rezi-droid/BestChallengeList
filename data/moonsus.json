@@ -1,0 +1,18 @@
+{
+    "id": 75271150,
+    "name": "moonsus",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/PeLBSke1hIU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/PeLBSke1hIU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

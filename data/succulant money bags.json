@@ -1,0 +1,18 @@
+{
+    "id": 77012078,
+    "name": "succulant money bags",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/cIY-zCGM4bE",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/cIY-zCGM4bE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
