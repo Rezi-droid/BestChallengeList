@@ -1,0 +1,18 @@
+{
+    "id": 76402530,
+    "name": "underwater challenge",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://www.youtube.com/watch?v=5w6TksWE4xA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://www.youtube.com/watch?v=5w6TksWE4xA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

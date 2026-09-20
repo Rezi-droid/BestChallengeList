@@ -1,0 +1,18 @@
+{
+    "id": 75739786,
+    "name": "Yezz Chamber",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/trFu1knjE0U",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/trFu1knjE0U",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
