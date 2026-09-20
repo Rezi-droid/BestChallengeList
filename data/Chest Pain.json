@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "idk",
     "records": [
+        {
+            "user": "KirbyKool-aid",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Ghostblaze",
+            "link": "none",
+            "percent": 100
+            "hz": 60
+        }
     ]
 }
