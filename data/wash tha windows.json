@@ -1,0 +1,18 @@
+{
+    "id": 76981305,
+    "name": "wash tha windows",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://www.youtube.com/watch?v=esWcWk6LUZk",
+    "percentToQualify": 100,
+    "password": "free",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://www.youtube.com/watch?v=esWcWk6LUZk",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
