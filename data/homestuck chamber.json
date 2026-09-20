@@ -1,0 +1,18 @@
+{
+    "id": 75610748,
+    "name": "homestuck chamber",
+    "author": "dstrider",
+    "creators": ["dstrider"],
+    "verifier": "dstrider",
+    "verification": "https://youtu.be/mbw3bVAwHo8",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/mbw3bVAwHo8",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

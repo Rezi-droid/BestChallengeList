@@ -1,0 +1,18 @@
+{
+    "id": 74070690,
+    "name": "draco sucks at chess",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/6lNo7JQJrh4",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/6lNo7JQJrh4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

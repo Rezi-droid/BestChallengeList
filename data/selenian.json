@@ -1,0 +1,18 @@
+{
+    "id": 76559867,
+    "name": "selenian",
+    "author": "dstrider",
+    "creators": ["dstrider"],
+    "verifier": "dstrider",
+    "verification": "https://youtu.be/kpsbhIQpc5I",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/kpsbhIQpc5I",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

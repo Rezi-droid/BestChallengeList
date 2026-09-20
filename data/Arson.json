@@ -1,0 +1,18 @@
+{
+    "id": 76108554,
+    "name": "Arson",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/r5DZBdGx50c",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/r5DZBdGx50c",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

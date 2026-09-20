@@ -1,0 +1,18 @@
+{
+    "id": 75226323,
+    "name": "EVIL GHOSTBLAZE",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/US-_WokrQAM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/US-_WokrQAM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
