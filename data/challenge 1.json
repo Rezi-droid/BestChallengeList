@@ -1,0 +1,18 @@
+{
+    "id": 72792376,
+    "name": "challenge 1",
+    "author": "Ghostblaze",
+    "creators": ["Ghostblaze"],
+    "verifier": "Ghostblaze",
+    "verification": "https://youtu.be/6RmvBKYri18",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rezi",
+            "link": "https://youtu.be/6RmvBKYri18",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
